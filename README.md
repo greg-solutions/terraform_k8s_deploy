@@ -1,3 +1,6 @@
+DEPRECATED. Moved to https://registry.terraform.io/modules/terraform-iaac/deployment/kubernetes/latest 
+==========================================
+
 Terraform module for Kubernetes Deployment
 ==========================================
 
